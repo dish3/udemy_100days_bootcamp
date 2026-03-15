@@ -1,0 +1,5 @@
+len("Hello")
+print(type("disha"))
+print(type(123))
+print(type(553.560))
+print(type(True))
