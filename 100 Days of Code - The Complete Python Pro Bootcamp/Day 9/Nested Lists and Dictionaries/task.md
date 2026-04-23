@@ -1,4 +1,4 @@
-You can mix and match various data types to achieve your desired structure.
+﻿You can mix and match various data types to achieve your desired structure.
 
 ### Nesting a List inside a Dictionary
 Instead of a String value assigned to a key, we can replace it with a List. You can nest a List in a Dictionary like this:
